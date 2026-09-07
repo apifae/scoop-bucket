@@ -1,6 +1,6 @@
 # apifae/scoop-bucket
 
-Scoop bucket for the [APIfae](https://apifae.com) CLI.
+Scoop bucket for the [APIFae](https://apifae.com) CLI.
 
 ```powershell
 scoop bucket add apifae https://github.com/apifae/scoop-bucket
